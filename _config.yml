@@ -20,8 +20,8 @@ author_image: "/mediator/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://hyip.github.io" # the base hostname & protocol for your site
-baseurl: "/mediator"
+url: "http://hyip.github.io/mediator/" # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
 
